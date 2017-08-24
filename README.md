@@ -1,0 +1,3 @@
+# RM_Main_Board_Code_College
+RM主控板官方程序college版,含自动瞄准射击
+具体说明详见documentation
